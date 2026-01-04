@@ -31,7 +31,7 @@ pageviews:
 theme_mode: # [light | dark]
 
 avatar: /assets/images/avatar.jpg
-social_preview_image: /assets/images/social-preview.png
+social_preview_image: #/assets/images/social-preview.png
 
 toc: true
 
